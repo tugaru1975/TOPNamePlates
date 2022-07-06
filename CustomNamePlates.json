@@ -1,0 +1,44 @@
+{
+    "nameplates": [
+        {
+            "name": "黒いガラス",
+            "author": "tugaru",
+            "resource": "blackglass.png"
+        },
+        {
+            "name": "茶色プレート",
+            "author": "tugaru",
+            "resource": "brownplate.png"
+        },
+        {
+            "name": "曇天",
+            "author": "tugaru",
+            "resource": "cloudsky.png"
+        },
+        {
+            "name": "配線タスク",
+            "author": "tugaru",
+            "resource": "fixwiring.png"
+        },
+        {
+            "name": "医務室",
+            "author": "tugaru",
+            "resource": "medbay.png"
+        },
+        {
+            "name": "夜空",
+            "author": "tugaru",
+            "resource": "nightsky.png"
+        },
+        {
+            "name": "ポップアップ",
+            "author": "tugaru",
+            "resource": "popop.png"
+        },
+        {
+            "name": "トップレート",
+            "author": "tugaru",
+            "resource": "toplate.png"
+        }
+    ]
+}
