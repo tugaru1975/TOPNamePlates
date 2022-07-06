@@ -35,8 +35,3 @@ NamePlateURL = https://raw.githubusercontent.com/tugaru1975/TOPNamePlates/master
 ### 5(任意).TOPでの実装
 自身のプロジェクトをこのプロジェクトにプルーリクエストしていただければTOPの方で実装いたします。  
 **オリジナルのネームプレートを削除している場合は元に戻してからプルリクしていただけると嬉しいです。**
-# 自作ネームプレートの試し方
-AmongUsファイルのデフォルト状態なら  
-Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  
-Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、  
-`TownOfPlus`>`SkinTest`のなかに自作したネームプレート画像を入れると試すことが可能です。
