@@ -1,4 +1,5 @@
 # 自作ネームプレートの追加方法
+**自身のプロジェクトを作成せずに簡易的に追加したい方は[こちら](#自作ネームプレートの試し方)を利用することも可能です**
 ### 1.このリポジトリを[Fork](https://github.com/tugaru1975/TOPNamePlates/fork)する
 ### 2.Forkしたリポジトリの`NamePlates`に自作したネームプレートスキンをアップロード
 ### 3.アップロードしたら`CustomNamePlates.json`にコードを追加する
@@ -26,8 +27,8 @@ Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、
 [NamePlateURL]
 
 # Setting type: String
-# Default value: https://raw.githubusercontent.com/tugaru1975/TOPNamePlates/master,https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
-NamePlateURL = https://raw.githubusercontent.com/tugaru1975/TOPNamePlates/master,https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
+# Default value: https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
+NamePlateURL = https://raw.githubusercontent.com/ユーザー名/プロジェクト名/master
 ```  
 という部分があるので`/ユーザー名/`と`/プロジェクト名/`の部分をそれぞれ自身のgithubユーザー名とプロジェクト名(デフォルトは`TOPNamePlates`)にしてください。  
 **`.txt`にしている場合は`.cfg`に戻してください。**  
@@ -35,3 +36,8 @@ NamePlateURL = https://raw.githubusercontent.com/tugaru1975/TOPNamePlates/master
 ### 5(任意).TOPでの実装
 自身のプロジェクトをこのプロジェクトにプルーリクエストしていただければTOPの方で実装いたします。  
 **オリジナルのネームプレートを削除している場合は元に戻してからプルリクしていただけると嬉しいです。**
+# 自作ネームプレートの試し方
+AmongUsファイルのデフォルト状態なら  
+Steam : `C:\Program Files (x86)\Steam\steamapps\common\Among Us`  
+Epic : `C:\Program Files (x86)\Epic Games\AmongUs`にある、  
+`TownOfPlus`>`SkinTest`>`NamePlateTest`のなかに自作したネームプレート画像を入れると、コスチュームメニューに自作スキンが追加され、試すことが可能です。 
