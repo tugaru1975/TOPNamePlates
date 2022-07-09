@@ -39,6 +39,26 @@
             "name": "トップレート",
             "author": "tugaru",
             "resource": "toplate.png"
+        },
+        {
+            "name": "SW-Needle",
+            "author": "やちゃじゃくや",
+            "resource": "Niboshi.png"
+        },
+        {
+            "name": "にぼしとねこ",
+            "author": "やちゃじゃくや",
+            "resource": "SWND.png"
+        },
+        {
+            "name": "なんかの達人っぽいなにか",
+            "author": "やちゃじゃくや",
+            "resource": "TJAP.png"
+        },
+        {
+            "name": "さぁ、バトルだ!",
+            "author": "やちゃじゃくや",
+            "resource": "UT_Battle.png"
         }
     ]
 }
