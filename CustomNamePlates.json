@@ -104,6 +104,21 @@
             "name": "lwl",
             "author": "やちゃじゃくや",
             "resource": "PInklwl.png"
+        },
+        {
+            "name": "YJ-R0B0T",
+            "author": "やちゃじゃくや",
+            "resource": "YJRob.png"
+        },
+        {
+            "name": "仮想空間",
+            "author": "やちゃじゃくや",
+            "resource": "Virtual.png"
+        },
+        {
+            "name": "雪が降る",
+            "author": "やちゃじゃくや",
+            "resource": "Snowy.png"
         }
     ]
 }
